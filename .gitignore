@@ -1,0 +1,5 @@
+v-env/
+*.ini
+*/__pycache__/
+*/migrations/
+db.sqlite3
